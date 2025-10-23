@@ -4,7 +4,7 @@ Este proyecto realiza la limpieza y preparación del dataset global_freelancers_
 
 Durante el proceso se aplicaron técnicas de data cleaning para corregir inconsistencias, estandarizar formatos y manejar valores faltantes.
 
-🔧 Principales tareas realizadas:
+Principales tareas realizadas:
 
 Estandarización de categorías en columnas como gender e is_active.
 
